@@ -1,1 +1,1 @@
-This is the test project created.
+This is the  project created for testing.
